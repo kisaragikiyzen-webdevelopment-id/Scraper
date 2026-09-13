@@ -1,7 +1,5 @@
 # Scraper
 Various scripts to perform scraping
-
-- Git Clone
 ```bash
 git clone "https://github.com/kisaragikiyzen-webdevelopment-id/Scraper"
 ```
