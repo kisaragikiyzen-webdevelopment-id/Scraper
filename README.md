@@ -5,7 +5,7 @@ git clone "https://github.com/kisaragikiyzen-webdevelopment-id/Scraper"
 ```
 
 
-
+### Game
 - Free Fire ID Scraper
 ```
 python ffscrp.py
