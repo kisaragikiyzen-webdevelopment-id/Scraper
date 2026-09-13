@@ -6,17 +6,17 @@ git clone "https://github.com/kisaragikiyzen-webdevelopment-id/Scraper"
 
 
 
-##### Free Fire ID Scraper
+- Free Fire ID Scraper
 ```
 python ffscrp.py
 ```
 
-##### Mobile Legend ID Scraper
+- Mobile Legend ID Scraper
 ```bash
 python mlbbscrp.py
 ```
 
-##### Genshin Impact ID Scraper
+- Genshin Impact ID Scraper
 ```bash
 coming soon...
 ```
