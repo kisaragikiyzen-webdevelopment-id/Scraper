@@ -4,6 +4,8 @@ Various scripts to perform scraping
 git clone "https://github.com/kisaragikiyzen-webdevelopment-id/Scraper"
 ```
 
+
+
 ##### Free Fire ID Scraper
 ```
 python ffscrp.py
